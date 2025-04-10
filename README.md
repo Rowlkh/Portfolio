@@ -1,7 +1,7 @@
 # Roaa Khaled — Personal Portfolio
 
 Welcome to my personal portfolio repository!  
-This portfolio presents my background, technical skills, and projects as a Computer Science student with a deep interest in AI, software engineering, and bioinformatics.
+This portfolio presents my background, technical skills, and projects as a Computer Science student with a minor in AI.
 
 🌐 **Live Website:** [https://roaakhaled.netlify.app](https://roaakhaled.netlify.app)
 
