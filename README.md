@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository!  
 This portfolio presents my background, technical skills, and projects as a Computer Science student with a minor in AI.
 
-🌐 **Live Website:** [https://roaakhaled.netlify.app](https://roaakhaled.netlify.app){:target="_blank"}
+🌐 **Live Website:** <a href="https://roaakhaled.netlify.app" target="_blank">https://roaakhaled.netlify.app</a>
 
 ---
 ## 🛠️ Technologies Used
@@ -18,7 +18,8 @@ This portfolio presents my background, technical skills, and projects as a Compu
 ---
 ## Credits
 
-This project is based on a template originally created by [Eugene Carbado](https://github.com/EugeneCarbado){:target="_blank"}
-You can find the original repository [here](https://github.com/EugeneCarbado/single-page-developer-portfolio){:target="_blank"}  
+This project is based on a template originally created by <a href="https://github.com/EugeneCarbado" target="_blank">Eugene Carbado</a>  
+You can find the original repository <a href="https://github.com/EugeneCarbado/single-page-developer-portfolio" target="_blank">here</a>  
 I have modified and customized it for personal use.
+
 
