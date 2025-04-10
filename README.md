@@ -22,5 +22,11 @@ This project is based on a template originally created by <a href="https://githu
 You can find the original repository <a href="https://github.com/EugeneCarbado/single-page-developer-portfolio" target="_blank">here</a>  
 I have modified and customized it for personal use.
 
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
